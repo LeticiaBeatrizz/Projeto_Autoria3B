@@ -17,6 +17,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    position: fixed;
+    width: 100%;
 }
 
 #header .logo {
@@ -55,6 +57,7 @@ main {
     padding: 20px;
     padding-left: 150px;
     padding-right: 150px;
+    padding-top: 85px;
 }
 
 #conteudo-fotografia {
