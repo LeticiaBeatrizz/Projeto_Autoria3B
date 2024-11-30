@@ -69,6 +69,10 @@ main {
     background-color: #ffffff;
 }
 
+#conteudo-fotografia h4 {
+    padding-bottom: 5px;
+}
+
 .texto-fotografia {
     padding: 15px;
     text-align: left;
